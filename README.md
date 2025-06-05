@@ -291,6 +291,66 @@ To integrate all previous concepts and complete an end-to-end ASIC frontend flow
 
 - Sky130 PDK
 
+## Lab Screenshots:
+![VirtualBox_VSDSQUADRON_04_06_2025_19_07_35](https://github.com/user-attachments/assets/251abbbf-88ed-46ff-8eb0-539f6686630a)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_08_36](https://github.com/user-attachments/assets/e3e7d57b-5e6f-4fd9-a368-9adce9e47c20)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_10_55](https://github.com/user-attachments/assets/a210d2d1-93b2-4a48-b563-37b8aecee305)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_11_59](https://github.com/user-attachments/assets/ab55ac5c-a1c3-47b5-92c5-356c55291335)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_12_17](https://github.com/user-attachments/assets/c65340c5-961e-4186-9e58-fb239bb5312c)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_14_23](https://github.com/user-attachments/assets/1ad8c3b8-661d-40bc-a2ff-d1a2e0faf0e6)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_14_58](https://github.com/user-attachments/assets/52b2cd0e-bcce-431c-a3bf-1a3115d9ef31)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_16_36](https://github.com/user-attachments/assets/36f2e295-4526-4aa6-aa81-0970a4c215e5)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_17_01](https://github.com/user-attachments/assets/d4e9eb9a-3873-40b5-a7d8-6a16a9aa366c)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_21_50](https://github.com/user-attachments/assets/a4df0795-60f8-4ebd-95c4-7c7ef2381b5d)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_22_57](https://github.com/user-attachments/assets/95a1412a-de90-45e1-8f4c-6473009d0e93)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_23_35](https://github.com/user-attachments/assets/4fbaf6cb-c113-496f-b663-ec21cbda3e78)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_24_16](https://github.com/user-attachments/assets/3f01c996-07f2-4ab6-9e24-ed508f27723e)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_24_22](https://github.com/user-attachments/assets/4608728d-5006-421f-a8af-8e72958c9891)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_25_43](https://github.com/user-attachments/assets/49316529-fc7a-4e7b-b7bb-fa63ea400916)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_26_06](https://github.com/user-attachments/assets/fdd6ab1a-ea74-4057-a8e3-4e90e69f7fcd)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_26_38](https://github.com/user-attachments/assets/311791f6-4353-4e45-9236-c4824d7287fc)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_27_11](https://github.com/user-attachments/assets/00b7ac2f-a317-47ae-ab23-a9effa55033e)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_27_20](https://github.com/user-attachments/assets/f219899c-7fd9-430f-8ea3-c22ee219076c)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_30_14](https://github.com/user-attachments/assets/b1242e55-fd3a-4530-8500-e0dd2a31df38)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_31_05](https://github.com/user-attachments/assets/99c5b063-9ee3-4021-9e98-1a5dae974f1d)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_32_28](https://github.com/user-attachments/assets/0b0010f5-382d-408d-b2ef-979099bfdd04)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_32_45](https://github.com/user-attachments/assets/72692c78-a565-4bd2-be0d-b2a3b9900a5b)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_34_24](https://github.com/user-attachments/assets/779a8c8b-feec-4d47-ab7c-ffd76b3658aa)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_35_40](https://github.com/user-attachments/assets/f65d3b51-5c7a-487f-82ad-3a9e57497ac4)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_36_31](https://github.com/user-attachments/assets/4b0dff0c-b068-4c25-a180-f082c967383a)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_37_12](https://github.com/user-attachments/assets/021b50b7-fec9-41c2-9c4c-e0585fb42850)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_39_51](https://github.com/user-attachments/assets/9b4de564-2059-4902-b0e2-fcd948a5cfe5)
+![VirtualBox_VSDSQUADRON_04_06_2025_19_40_38](https://github.com/user-attachments/assets/84680b6d-d115-4b02-9932-c44555e84def)
+
+# 📌 Key Learnings:
+- Full RTL-to-synthesis-to-verification flow
+
+- Writing clean and synthesizable RTL code
+
+- Applying and understanding timing constraints in real designs
+
+- Running GLS and validating netlist behavior
+
+- Exposure to ASIC frontend design using open-source Sky130 flow
+
+# 🎯 Outcome:
+- Participants complete the workshop with practical experience in:
+
+- ASIC design using Sky130
+
+- Understanding and writing timing-aware RTL
+
+- Using industry-relevant open-source tools
+
+- Applying constraints and performing GLS verification
+# Acknowledgement
+I would like to express my sincere gratitude to VLSI System Design (VSD) team and Kunal Ghosh for organizing the Cloud-Based Workshop on RTL Design Using Verilog with SKY130 Technology. The 10-day workshop provided valuable insights into RTL design, synthesis, simulation, and the practical use of open-source tools and the Sky130 PDK.
+
+Special thanks to the instructors and the entire VSD-IAT team for their guidance and for creating an interactive and hands-on learning experience.
+
+This repository is a compilation of all the learning, implementations, and assignments completed as part of this workshop.
+
+
 
 
 
