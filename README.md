@@ -334,7 +334,7 @@ To integrate all previous concepts and complete an end-to-end ASIC frontend flow
 - Exposure to ASIC frontend design using open-source Sky130 flow
 
 # 🎯 Outcome:
-- Participants complete the workshop with practical experience in:
+ Participants complete the workshop with practical experience in:
 
 - ASIC design using Sky130
 
